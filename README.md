@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharvari</h1>
-<h3 align="center">Passionate Python developer and data engineer with a knack for turning complex datasets into actionable insights, weaving magic with code to create seamless and efficient data-driven solutions.</h3>
+<h3 align="center">Passionate Python developer and data engineer with a knack for turning complex datasets into actionable insights, weaving magic with code to create seamless and efficient data-driven solutions.</h3> 
+
 
 - 🔭 I’m currently working on **Azure Cloud**
 
